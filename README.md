@@ -1,5 +1,4 @@
-<img width="446" alt="image" src="https://github.com/user-attachments/assets/258f6b8f-e0a8-46ed-872f-f105c9bc506a">
-
+![Sales Analysis with SQL](https://github.com/user-attachments/assets/a69d46b2-ec5d-4db1-808d-de4a02d5d8b1)
 
 # Project Objective
 
